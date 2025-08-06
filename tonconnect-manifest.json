@@ -1,0 +1,10 @@
+{
+  "url": "https://sonora.wuaze.com",
+  "name": "Sonora Ton",
+  "iconUrl": "https://sonora.wuaze.com/images/system/cover2.png",
+  "termsOfUseUrl": "https://sonora.wuaze.com",
+  "privacyPolicyUrl": "https://sonora.wuaze.com",
+  "manifestVersion": "1",
+  "bridgeUrl": "https://bridge.tonapi.io/bridge",
+  "universalLink": "https://sonora.wuaze.com/wallet/ton.html"
+}
